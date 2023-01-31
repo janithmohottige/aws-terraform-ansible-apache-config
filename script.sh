@@ -1,5 +1,3 @@
-#!/bin/bash
-
 terraform apply --auto-approve
 
 echo [webservers] >> hosts
