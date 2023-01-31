@@ -49,4 +49,4 @@ echo Server 2 Up and Running
 
 echo Running Ansible Playbook
 
-ansible-playbook ansible.yml -u ec2-user --private-key access.pem
+ansible-playbook ansible.yml -u ec2-user --private-key ~/yesh/access.pem
